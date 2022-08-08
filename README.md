@@ -1,3 +1,6 @@
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="82" height="82" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="82" height="82" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="82" height="82" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="82" height="82" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="82" height="82" /></div>
+
+<!-- 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -29,6 +32,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+-->
 
 <!-- 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
