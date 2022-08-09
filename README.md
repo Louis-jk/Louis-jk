@@ -3,7 +3,9 @@
   
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="66" height="66" /></div>
 
- <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="66" height="66" /></div>
+ <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="66" height="66" />
+<img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="66" height="66" />
+</div>
 </div>
 
 <!-- 
