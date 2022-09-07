@@ -3,6 +3,8 @@
 <br />
 <h1>SEIZE THE DAY</h1>
 <br />
+![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&theme=dark&show_icons=true)
+<br />
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="66" height="66" /></div>
   
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="66" height="66" /></div>
