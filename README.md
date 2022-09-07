@@ -3,7 +3,7 @@
 <br />
 <h1>SEIZE THE DAY</h1>
 <br />
-![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&theme=dark&show_icons=true)
+
 <br />
 <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="66" height="66" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="66" height="66" /></div>
   
@@ -13,6 +13,10 @@
 <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="66" height="66" />
 </div>
 </div>
+<br />
+
+![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&theme=blueberry&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-jk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
