@@ -20,6 +20,7 @@
 ![Sass](https://img.shields.io/badge/Sass-CC6699.svg?&style=for-the-badge&logo=Sass&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF.svg?&style=for-the-badge&logo=MUI&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-FFFFFF.svg?&style=for-the-badge&logo=WordPress&logoColor=117ac9)
 ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?&style=for-the-badge&logo=Node.js&logoColor=white)
 ![pm2](https://img.shields.io/badge/pm2-2B037A.svg?&style=for-the-badge&logo=pm2&logoColor=white)
 ![.ENV](https://img.shields.io/badge/.ENV-ECD53F.svg?&style=for-the-badge&logo=.ENV&logoColor=black)
@@ -39,10 +40,16 @@
 ### Tools
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?&style=for-the-badge&logo=iTerm2&logoColor=white)
 
+### Experience
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FFFFFF.svg?&style=for-the-badge&logo=CodeIgniter&logoColor=EF4223)
+![Laravel](https://img.shields.io/badge/Laravel-FFFFFF.svg?&style=for-the-badge&logo=Laravel&logoColor=FF2D20)
+![React Query](https://img.shields.io/badge/React%20Query-FF4154.svg?&style=for-the-badge&logo=React%20Query&logoColor=white)
+
 ### Learnings
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=000000)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748.svg?&style=for-the-badge&logo=Prisma&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?&style=for-the-badge&logo=Redis&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
@@ -50,7 +57,7 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Three.js&logoColor=white)
 
 ### Activity
-![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white)
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-313539.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=f2740e)
 
 
 
