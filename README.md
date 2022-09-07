@@ -38,7 +38,13 @@
 ![NuGet](https://img.shields.io/badge/NuGet-004880.svg?&style=for-the-badge&logo=NuGet&logoColor=white)
 
 ### Tools
-![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?&style=for-the-badge&logo=iTerm2&logoColor=white)
+![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?&style=for-the-badge&logo=iTerm2&logoColor=56e361)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-FFFFFF.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=1e76c6)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-FFFFFF.svg?&style=for-the-badge&logo=Visual%20Studio&logoColor=935fcd)
+![Xcode](https://img.shields.io/badge/Xcode-FFFFFF.svg?&style=for-the-badge&logo=Xcode&logoColor=147EFB)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-5c5c5c.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=80b04e)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-FFFFFF.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=1a76e3)
+
 
 ### Experience
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-FFFFFF.svg?&style=for-the-badge&logo=CodeIgniter&logoColor=EF4223)
