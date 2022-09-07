@@ -39,7 +39,8 @@
 ### Tools
 ![iTerm2](https://img.shields.io/badge/iTerm2-000000.svg?&style=for-the-badge&logo=iTerm2&logoColor=white)
 
-### Learnings🏊🏻‍♂️
+### Learnings
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=000000)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4.svg?&style=for-the-badge&logo=.NET&logoColor=white)
@@ -47,6 +48,9 @@
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=C++&logoColor=white)
 ![ReactiveX](https://img.shields.io/badge/ReactiveX.js-B7178C.svg?&style=for-the-badge&logo=ReactiveX&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Three.js&logoColor=white)
+
+### Activity
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=white)
 
 
 
