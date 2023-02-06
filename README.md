@@ -1,6 +1,6 @@
 # Joonho Kim🌴🌞
 
-![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&theme=blueberry&show_icons=true)
+![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&show_icons=true&theme=tokyonight#gh-dark-mode-only)
 
 # Skills🏄🏼‍♂️
 ### Programming Languages & Platforms
