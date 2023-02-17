@@ -1,5 +1,5 @@
 # Joonho Kim🌴🌞
-
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNiMTBkMDhmOGZkYTYzMTEwMzE5MGNmZjFjYzFmMTE4MmM3MWE1ZiZjdD1n/bJ4TVNYNUympPgcpem/giphy.gif)  
 ![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&show_icons=true&theme=tokyonight#gh-dark-mode-only)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-jk&layout=compact)](https://github.com/Louis-jk/github-readme-stats)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-jk&langs_count=8)](https://github.com/Louis-jk/github-readme-stats) -->
