@@ -44,6 +44,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-000.svg?&style=for-the-badge&logo=MySQL&logoColor=4479A1)
 ![MariaDB](https://img.shields.io/badge/MariaDB-000.svg?&style=for-the-badge&logo=MariaDB&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-000.svg?&style=for-the-badge&logo=MongoDB&logoColor=47A248)
+![SQLite](https://img.shields.io/badge/SQLite-000.svg?&style=for-the-badge&logo=SQLite&logoColor=003B57)
 
 
 ### Package managers
