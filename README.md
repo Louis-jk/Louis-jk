@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://user-images.githubusercontent.com/25785760/220003733-d6fcbca8-935d-43d5-a94c-943203089ca0.png" width="150"/><br /> 
-   <pre>Hi~ I'm Joonho.<br/>Front-End Developer.</pre>
+   <pre>Hi~ I'm Joonho<br/>Front-End Developer<br />Software Engineer.</pre>
 </div>
 <div align="center">
 <details>
@@ -42,9 +42,11 @@
 
 ### Back End
 ![Node.js](https://img.shields.io/badge/Node.js-000.svg?&style=for-the-badge&logo=Node.js&logoColor=339933)
-![pm2](https://img.shields.io/badge/pm2-000.svg?&style=for-the-badge&logo=pm2&logoColor=2B037A)
-![Go](https://img.shields.io/badge/Golang-000000.svg?&style=for-the-badge&logo=Go&logoColor=04ABD7)
 ![Express](https://img.shields.io/badge/Express-000.svg?&style=for-the-badge&logo=Express&logoColor=white)
+![pm2](https://img.shields.io/badge/pm2-000.svg?&style=for-the-badge&logo=pm2&logoColor=2B037A)
+![NGINX](https://img.shields.io/badge/NGINX-000.svg?&style=for-the-badge&logo=NGINX&logoColor=009639) 
+![Go](https://img.shields.io/badge/Golang-000000.svg?&style=for-the-badge&logo=Go&logoColor=04ABD7)
+
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-000.svg?&style=for-the-badge&logo=MySQL&logoColor=4479A1)
