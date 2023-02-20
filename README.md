@@ -10,6 +10,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?&style=for-the-badge&logo=TypeScript&logoColor=3178C6) 
 
+<details>
+  <summary>More details</summary>
+ 
 ### Front End
 ![React](https://img.shields.io/badge/React-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
 ![React Router](https://img.shields.io/badge/React%20Router-000.svg?&style=for-the-badge&logo=React%20Router&logoColor=CA4245)
@@ -95,5 +98,5 @@
 ![Slack](https://img.shields.io/badge/Slack-000.svg?&style=for-the-badge&logo=Slack&logoColor=4A154B)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-000.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=f2740e)
 
-
+</details>
 
