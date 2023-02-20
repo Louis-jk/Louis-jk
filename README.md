@@ -1,5 +1,12 @@
+<div id="header" align="center">
+  <img src="https://user-images.githubusercontent.com/25785760/220003733-d6fcbca8-935d-43d5-a94c-943203089ca0.png" width="150"/><br /> 
+   <pre>Hi~ I'm Joonho.<br/>Front End Developer.</pre>
+</div>
+<div align="center">
+<details>
+  <summary>More details</summary>
+  
 # Joonho Kim🌴🌞
-![94fe363b03841632b358784c0bf7d40d-sticker](https://user-images.githubusercontent.com/25785760/220003733-d6fcbca8-935d-43d5-a94c-943203089ca0.png)  
 ![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&show_icons=true&theme=tokyonight#gh-dark-mode-only)  
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-jk&layout=compact)](https://github.com/Louis-jk/github-readme-stats)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-jk&langs_count=8)](https://github.com/Louis-jk/github-readme-stats) -->
@@ -10,8 +17,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?&style=for-the-badge&logo=TypeScript&logoColor=3178C6) 
 
-<details>
-  <summary>More details</summary>
+
  
 ### Front End
 ![React](https://img.shields.io/badge/React-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
@@ -100,4 +106,4 @@
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-000.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=f2740e)
 
 </details>
-
+</div>
