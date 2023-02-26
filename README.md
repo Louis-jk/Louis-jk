@@ -18,7 +18,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?&style=for-the-badge&logo=TypeScript&logoColor=3178C6) 
 
  
-### Front End : Main
+### Front-End Tech: Main
 ![React](https://img.shields.io/badge/React-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![ReactNative](https://img.shields.io/badge/ReactNative-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
@@ -40,7 +40,7 @@
 ![Jest](https://img.shields.io/badge/Jest-000.svg?&style=for-the-badge&logo=Jest&logoColor=C21325)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-000.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=E33332) -->
 
-### Back End
+### Back End Tech
 ![Node.js](https://img.shields.io/badge/Node.js-000.svg?&style=for-the-badge&logo=Node.js&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-000.svg?&style=for-the-badge&logo=NestJS&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/Express-000.svg?&style=for-the-badge&logo=Express&logoColor=white)
