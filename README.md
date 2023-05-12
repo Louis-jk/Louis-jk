@@ -1,6 +1,6 @@
 <div id="header" align="center">  
   <img src="https://user-images.githubusercontent.com/25785760/220003733-d6fcbca8-935d-43d5-a94c-943203089ca0.png" width="150"/><br /> 
-  <pre>Hi~ I'm Joonho<br/>Front-End Developer.</pre>
+  <pre>Hi~ I'm Joonho<br/>Front-End Engineer.</pre>
 </div>
 <div align="center">
 <details>
