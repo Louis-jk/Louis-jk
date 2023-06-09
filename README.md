@@ -7,7 +7,7 @@
   <summary>More details</summary>
   
 ## Joonho Kim🌴🌞
-![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&show_icons=true&theme=cobalt2&hide_border=true&border_radius=0&bg_color=0D1117)  
+<!-- ![Juno's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-jk&show_icons=true&theme=cobalt2&hide_border=true&border_radius=0&bg_color=0D1117)   -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-jk&layout=compact)](https://github.com/Louis-jk/github-readme-stats)  -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-jk&langs_count=8)](https://github.com/Louis-jk/github-readme-stats) -->
 
