@@ -88,7 +88,6 @@
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Three.js&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-000000.svg?&style=for-the-badge&logo=Fastlane&logoColor=00F200)
 ![SQLite](https://img.shields.io/badge/sqlite-000000.svg?&style=for-the-badge&logo=sqlite&logoColor=003B57)
-![SQLite](https://img.shields.io/badge/sqlite-000000.svg?&style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![MariaDB](https://img.shields.io/badge/mariadb-000000.svg?&style=for-the-badge&logo=mariadb&logoColor=003545)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/mongodb-000000.svg?&style=for-the-badge&logo=mongodb&logoColor=47A248)
