@@ -21,10 +21,16 @@
 ### Front-End Tech: Main
 ![React](https://img.shields.io/badge/React-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+![PWA](https://img.shields.io/badge/pwa-000000.svg?&style=for-the-badge&logo=pwa&logoColor=5A0FC8)
 ![ReactNative](https://img.shields.io/badge/ReactNative-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
 ![Electron](https://img.shields.io/badge/Electron-000.svg?&style=for-the-badge&logo=Electron&logoColor=a0ecfb)
 ![HTML5](https://img.shields.io/badge/HTML5-000.svg?&style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-000.svg?&style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![Jest](https://img.shields.io/badge/jest-000000.svg?&style=for-the-badge&logo=jest&logoColor=C21325)
+![ReactQuery](https://img.shields.io/badge/reactquery-000000.svg?&style=for-the-badge&logo=reactquery&logoColor=FF4154)
+![Redux](https://img.shields.io/badge/redux-000000.svg?&style=for-the-badge&logo=redux&logoColor=764ABC)
+![ReduxSaga](https://img.shields.io/badge/reduxsaga-000000.svg?&style=for-the-badge&logo=reduxsaga&logoColor=999999)
+![i18Next](https://img.shields.io/badge/i18next-000000.svg?&style=for-the-badge&logo=i18next&logoColor=26A69A)
 
 <!-- ![React Router](https://img.shields.io/badge/React%20Router-000.svg?&style=for-the-badge&logo=React%20Router&logoColor=CA4245)
 ![React Query](https://img.shields.io/badge/React%20Query-000.svg?&style=for-the-badge&logo=React%20Query&logoColor=FF4154)
@@ -45,6 +51,7 @@
 ![NestJS](https://img.shields.io/badge/NestJS-000.svg?&style=for-the-badge&logo=NestJS&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/Express-000.svg?&style=for-the-badge&logo=Express&logoColor=white)
 ![Go](https://img.shields.io/badge/Golang-000000.svg?&style=for-the-badge&logo=Go&logoColor=04ABD7)
+![Nodemon](https://img.shields.io/badge/nodemon-000000.svg?&style=for-the-badge&logo=nodemon&logoColor=76D04B)
 
 <!-- 
 ![pm2](https://img.shields.io/badge/pm2-000.svg?&style=for-the-badge&logo=pm2&logoColor=2B037A)
@@ -80,7 +87,17 @@
 ![GreenSock](https://img.shields.io/badge/GreenSock-000.svg?&style=for-the-badge&logo=GreenSock&logoColor=88CE02)
 ![Three.js](https://img.shields.io/badge/Three.js-000000.svg?&style=for-the-badge&logo=Three.js&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/Fastlane-000000.svg?&style=for-the-badge&logo=Fastlane&logoColor=00F200)
-  
+![SQLite](https://img.shields.io/badge/sqlite-000000.svg?&style=for-the-badge&logo=sqlite&logoColor=003B57)
+![SQLite](https://img.shields.io/badge/sqlite-000000.svg?&style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MariaDB](https://img.shields.io/badge/mariadb-000000.svg?&style=for-the-badge&logo=mariadb&logoColor=003545)
+![MySQL](https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=4479A1)
+![MongoDB](https://img.shields.io/badge/mongodb-000000.svg?&style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+
+### Other Stacks
+![Git](https://img.shields.io/badge/Git-000000.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=3884FF)
+![GitLab](https://img.shields.io/badge/gitlab-000000.svg?&style=for-the-badge&logo=gitlab&logoColor=FC6D26)
 <!-- 
 ![WordPress](https://img.shields.io/badge/WordPress-000.svg?&style=for-the-badge&logo=WordPress&logoColor=117ac9)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-000000.svg?&style=for-the-badge&logo=CodeIgniter&logoColor=EF4223)
@@ -117,6 +134,9 @@
 
 ### Activity
 ![Slack](https://img.shields.io/badge/Slack-000.svg?&style=for-the-badge&logo=Slack&logoColor=4A154B)
+![Discord](https://img.shields.io/badge/discord-000.svg?&style=for-the-badge&logo=discord&logoColor=5865F2)
+![GoogleMeet](https://img.shields.io/badge/googlemeet-000.svg?&style=for-the-badge&logo=googlemeet&logoColor=00897B)
+![MicrosoftTeams](https://img.shields.io/badge/microsoftteams-000.svg?&style=for-the-badge&logo=microsoftteams&logoColor=6264A7)
 ![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-000.svg?&style=for-the-badge&logo=Stack%20Overflow&logoColor=f2740e)
 
 </details>
