@@ -1,5 +1,5 @@
 <div id="header" align="center">  
-  <img src="https://github.com/Louis-jk/Louis-jk/assets/25785760/d8579a10-c5c0-427e-929c-00389527d818.png" width="150"/><br />
+  <img src="https://github.com/Louis-jk/Louis-jk/assets/25785760/d8579a10-c5c0-427e-929c-00389527d818.png" width="150" alt="profile image" title="profile image" /><br />
   <pre>Hi~ I'm Joonho<br/>Front-End Engineer.</pre>
 </div>
 <div align="center">
