@@ -46,7 +46,7 @@
 ![Jest](https://img.shields.io/badge/Jest-000.svg?&style=for-the-badge&logo=Jest&logoColor=C21325)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-000.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=E33332) -->
 
-### Back End Tech
+### Back End Experience
 ![Node.js](https://img.shields.io/badge/Node.js-000.svg?&style=for-the-badge&logo=Node.js&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-000.svg?&style=for-the-badge&logo=NestJS&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/Express-000.svg?&style=for-the-badge&logo=Express&logoColor=white)
