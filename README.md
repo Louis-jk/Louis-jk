@@ -14,8 +14,9 @@
 
 ## Skills🏄🏼‍♂️
 <!-- ## Programming Languages & Platforms -->
-![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
+### Most Used Language
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?&style=for-the-badge&logo=TypeScript&logoColor=3178C6) 
+![JavaScript](https://img.shields.io/badge/JavaScript-000000.svg?&style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E)
 
  
 ### Front-End Tech: Main
