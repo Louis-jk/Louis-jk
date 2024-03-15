@@ -46,7 +46,7 @@
 ![Jest](https://img.shields.io/badge/Jest-000.svg?&style=for-the-badge&logo=Jest&logoColor=C21325)
 ![Testing Library](https://img.shields.io/badge/Testing%20Library-000.svg?&style=for-the-badge&logo=Testing%20Library&logoColor=E33332) -->
 
-### Back End Experience
+### Back-End Experience
 ![Node.js](https://img.shields.io/badge/Node.js-000.svg?&style=for-the-badge&logo=Node.js&logoColor=339933)
 ![NestJS](https://img.shields.io/badge/NestJS-000.svg?&style=for-the-badge&logo=NestJS&logoColor=E0234E)
 ![Express](https://img.shields.io/badge/Express-000.svg?&style=for-the-badge&logo=Express&logoColor=white)
@@ -79,7 +79,7 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-000.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=80b04e) -->
 
   
-### Experience
+### Other Experience
 ![Docker](https://img.shields.io/badge/Docker-000000.svg?&style=for-the-badge&logo=Docker&logoColor=2496ED)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-000.svg?&style=for-the-badge&logo=Amazon%20AWS&logoColor=FF9900)
 ![Amazon S3](https://img.shields.io/badge/Amazon%20S3-000.svg?&style=for-the-badge&logo=Amazon%20S3&logoColor=569A31)
@@ -93,7 +93,7 @@
 ![MongoDB](https://img.shields.io/badge/mongodb-000000.svg?&style=for-the-badge&logo=mongodb&logoColor=47A248)
 
 
-### Other Stacks
+### Collaboration Tools
 ![Git](https://img.shields.io/badge/Git-000000.svg?&style=for-the-badge&logo=Git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/github-000000.svg?&style=for-the-badge&logo=github&logoColor=3884FF)
 ![GitLab](https://img.shields.io/badge/gitlab-000000.svg?&style=for-the-badge&logo=gitlab&logoColor=FC6D26)
