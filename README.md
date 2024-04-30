@@ -32,6 +32,7 @@
 ![Redux](https://img.shields.io/badge/redux-000000.svg?&style=for-the-badge&logo=redux&logoColor=764ABC)
 ![ReduxSaga](https://img.shields.io/badge/reduxsaga-000000.svg?&style=for-the-badge&logo=reduxsaga&logoColor=999999)
 ![i18Next](https://img.shields.io/badge/i18next-000000.svg?&style=for-the-badge&logo=i18next&logoColor=26A69A)
+![swr](https://img.shields.io/badge/swr-000000.svg?&style=for-the-badge&logo=swr&logoColor=FFFFFF)
 
 <!-- ![React Router](https://img.shields.io/badge/React%20Router-000.svg?&style=for-the-badge&logo=React%20Router&logoColor=CA4245)
 ![React Query](https://img.shields.io/badge/React%20Query-000.svg?&style=for-the-badge&logo=React%20Query&logoColor=FF4154)
