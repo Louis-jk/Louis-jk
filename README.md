@@ -1,7 +1,32 @@
-<div id="header" align="center">  
-  <img src="https://github.com/Louis-jk/Louis-jk/assets/25785760/d6b467c1-5c5c-4e5d-8b8b-8e352c254636" width="150" alt="profile image" title="profile image" /><br />
-  <pre>Hi~ I'm Joonho<br/>Front-End Engineer.</pre>
-</div>
+## Tech Stack Map
+```mermaid
+graph TD
+    A[Frontend Developer] --> B[React Native]
+    A --> C[Next.js]
+    A --> D[React]
+    A --> E[Web3]
+    A --> F[Electron]
+
+    B -->|Experience| G[Mobile Applications]
+    C -->|Experience| H[Server-Side Rendering]
+    D -->|Experience| I[Component-Based UI]
+    E -->|Experience| K[Blockchain Integration]
+    F -->|Experience| J[Desktop Applications]
+
+    style A fill:#000,stroke:#000,stroke-width:2px
+    style B fill:#000,stroke:#000,stroke-width:2px
+    style C fill:#000,stroke:#000,stroke-width:2px
+    style D fill:#000,stroke:#000,stroke-width:2px
+    style E fill:#000,stroke:#000,stroke-width:2px
+    style F fill:#000,stroke:#000,stroke-width:2px
+    style G fill:#000,stroke:#000,stroke-width:2px
+    style H fill:#000,stroke:#000,stroke-width:2px
+    style I fill:#000,stroke:#000,stroke-width:2px
+    style J fill:#000,stroke:#000,stroke-width:2px
+    style K fill:#000,stroke:#000,stroke-width:2px
+```
+
+
 <div align="center">
 <details>
   <summary>More details</summary>
