@@ -13,17 +13,17 @@ graph TD
     E -->|Experience| K[Blockchain Integration]
     F -->|Experience| J[Desktop Applications]
 
-    style A fill:#000,stroke:#000,stroke-width:2px
-    style B fill:#000,stroke:#000,stroke-width:2px
-    style C fill:#000,stroke:#000,stroke-width:2px
-    style D fill:#000,stroke:#000,stroke-width:2px
-    style E fill:#000,stroke:#000,stroke-width:2px
-    style F fill:#000,stroke:#000,stroke-width:2px
-    style G fill:#000,stroke:#000,stroke-width:2px
-    style H fill:#000,stroke:#000,stroke-width:2px
-    style I fill:#000,stroke:#000,stroke-width:2px
-    style J fill:#000,stroke:#000,stroke-width:2px
-    style K fill:#000,stroke:#000,stroke-width:2px
+    style A fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style B fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style C fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style D fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style E fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style F fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style G fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style H fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style I fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style J fill:#000,stroke:#000,color:#fff,stroke-width:2px
+    style K fill:#000,stroke:#000,color:#fff,stroke-width:2px
 ```
 
 
