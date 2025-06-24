@@ -1,36 +1,10 @@
+<div align="center">
+    <p>Hi, I'm Joonho — a frontend developer  <br />
+who loves clean UI and cares deeply about performance.</p>
+    <img src="https://github.com/user-attachments/assets/4551ca5f-de17-400d-9f90-ea444c4d46d9" alt="astronaut-20286_512" />   
+</div>
 
-![south-korea-688_256](https://github.com/user-attachments/assets/ba6b36fe-5d5b-4d4c-af92-b51da3071097)
-![japan-459_256](https://github.com/user-attachments/assets/e20747eb-8a22-4f26-a5ca-2a1ae34308b3)
-![united-states-729_256](https://github.com/user-attachments/assets/85cdcf4d-3a13-4546-a7f7-6774c9a8abe6)
-
-## Tech Stack Map
-```mermaid
-graph TD
-    A[Frontend Developer] --> B[React Native]
-    A --> C[Next.js]
-    A --> D[React]
-    A --> E[Web3]
-    A --> F[Electron]
-
-    B -->|Experience| G[Mobile Applications]
-    C -->|Experience| H[Server-Side Rendering]
-    D -->|Experience| I[Component-Based UI]
-    E -->|Experience| K[Blockchain Integration]
-    F -->|Experience| J[Desktop Applications]
-
-    style A fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style B fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style C fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style D fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style E fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style F fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style G fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style H fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style I fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style J fill:#000,stroke:#000,color:#fff,stroke-width:2px
-    style K fill:#000,stroke:#000,color:#fff,stroke-width:2px
-```
-
+<br />    
 
 <div align="center">
 <details>
