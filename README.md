@@ -1,5 +1,5 @@
 <div align="center">
-    <p>Hi, I'm Joonho — a frontend developer  <br />
+    <p>Hi, I'm a frontend developer  <br />
 who loves clean UI and cares deeply about performance.</p>
     <img src="https://github.com/user-attachments/assets/4551ca5f-de17-400d-9f90-ea444c4d46d9" alt="astronaut-20286_512" />   
 </div>
