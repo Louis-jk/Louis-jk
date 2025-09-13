@@ -1,9 +1,17 @@
 <div align="center">
     <p>Hi, I'm a frontend developer  <br />
 who loves clean UI and cares deeply about performance.</p>
-    <img src="https://github.com/user-attachments/assets/4551ca5f-de17-400d-9f90-ea444c4d46d9" alt="astronaut-20286_512" />   
-</div>
+<!--     <img src="https://github.com/user-attachments/assets/4551ca5f-de17-400d-9f90-ea444c4d46d9" alt="astronaut-20286_512" />    -->    
 
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000.svg?&style=for-the-badge&logo=TypeScript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
+![ReactNative](https://img.shields.io/badge/ReactNative-000.svg?&style=for-the-badge&logo=React&logoColor=61dafb)
+![Electron](https://img.shields.io/badge/Electron-000.svg?&style=for-the-badge&logo=Electron&logoColor=a0ecfb)
+
+
+</div>
 <br />    
 
 <div align="center">
