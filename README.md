@@ -50,6 +50,8 @@ who loves clean UI and cares deeply about performance.</p>
 ![wagmi](https://img.shields.io/badge/wagmi-000000.svg?&style=for-the-badge&logo=wagmi&logoColor=FFFFFF)
 ![gsap](https://img.shields.io/badge/gsap-000000.svg?&style=for-the-badge&logo=gsap&logoColor=0AE448)
 ![framer](https://img.shields.io/badge/framer-000000.svg?&style=for-the-badge&logo=framer&logoColor=FFFFFF)
+![jest](https://img.shields.io/badge/jest-000000.svg?&style=for-the-badge&logo=jest&logoColor=C21325)
+![testinglibrary](https://img.shields.io/badge/testinglibrary-000000.svg?&style=for-the-badge&logo=testinglibrary&logoColor=E33332)
 
 
 <!-- ![React Router](https://img.shields.io/badge/React%20Router-000.svg?&style=for-the-badge&logo=React%20Router&logoColor=CA4245)
