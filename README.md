@@ -45,6 +45,12 @@ who loves clean UI and cares deeply about performance.</p>
 ![ReduxSaga](https://img.shields.io/badge/reduxsaga-000000.svg?&style=for-the-badge&logo=reduxsaga&logoColor=999999)
 ![i18Next](https://img.shields.io/badge/i18next-000000.svg?&style=for-the-badge&logo=i18next&logoColor=26A69A)
 ![swr](https://img.shields.io/badge/swr-000000.svg?&style=for-the-badge&logo=swr&logoColor=FFFFFF)
+![tailwindCss](https://img.shields.io/badge/tailwindCss-000000.svg?&style=for-the-badge&logo=tailwindCss&logoColor=06B6D4)
+![shadcnui](https://img.shields.io/badge/shadcnui-000000.svg?&style=for-the-badge&logo=shadcnui&logoColor=FFFFFF)
+![wagmi](https://img.shields.io/badge/wagmi-000000.svg?&style=for-the-badge&logo=wagmi&logoColor=FFFFFF)
+![gsap](https://img.shields.io/badge/gsap-000000.svg?&style=for-the-badge&logo=gsap&logoColor=0AE448)
+![framer](https://img.shields.io/badge/framer-000000.svg?&style=for-the-badge&logo=framer&logoColor=FFFFFF)
+
 
 <!-- ![React Router](https://img.shields.io/badge/React%20Router-000.svg?&style=for-the-badge&logo=React%20Router&logoColor=CA4245)
 ![React Query](https://img.shields.io/badge/React%20Query-000.svg?&style=for-the-badge&logo=React%20Query&logoColor=FF4154)
@@ -105,6 +111,10 @@ who loves clean UI and cares deeply about performance.</p>
 ![MariaDB](https://img.shields.io/badge/mariadb-000000.svg?&style=for-the-badge&logo=mariadb&logoColor=003545)
 ![MySQL](https://img.shields.io/badge/mysql-000000.svg?&style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![MongoDB](https://img.shields.io/badge/mongodb-000000.svg?&style=for-the-badge&logo=mongodb&logoColor=47A248)
+![ethereum](https://img.shields.io/badge/ethereum-000000.svg?&style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+![webgl](https://img.shields.io/badge/webgl-000000.svg?&style=for-the-badge&logo=webgl&logoColor=990000)
+![webrtc](https://img.shields.io/badge/webrtc-000000.svg?&style=for-the-badge&logo=webrtc&logoColor=333333)
+![socketdotio](https://img.shields.io/badge/socketdotio-010101.svg?&style=for-the-badge&logo=socketdotio&logoColor=FFFFFF)
 
 
 ### Collaboration Tools
