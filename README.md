@@ -1,8 +1,10 @@
 
 
 <div align="center">
-      <img src="https://github.com/user-attachments/assets/32ec7927-89c0-4faf-9777-6075b6abfddf" alt="with_america_flag">
+      <!-- <img src="https://github.com/user-attachments/assets/32ec7927-89c0-4faf-9777-6075b6abfddf" alt="with_america_flag"> -->
+      <img src="https://github.com/user-attachments/assets/3ed33412-4ec4-4a08-a304-cb40a54ae025" alt="joonho kim">
     <p>Hi, I'm a frontend developer  <br />
+
     
 who loves clean UI and cares deeply about performance.</p>
 <!--     <img src="https://github.com/user-attachments/assets/4551ca5f-de17-400d-9f90-ea444c4d46d9" alt="astronaut-20286_512" />    -->    
